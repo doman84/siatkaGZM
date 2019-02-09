@@ -3,6 +3,9 @@ import qgis.utils
 
 def totlength(layer):
     a = 0
+    for feature in layer.getFeatures():
+        a = a+int(feature.geometry().length())
+    return a
     
 def pattern(len,step):
     n = int(len/step)
@@ -28,7 +31,7 @@ def segments(distance,step):
 
 #input line
 registry = QgsProject.instance()
-line = registry.mapLayersByName('KSS1')
+line = registry.mapLayersByName('maczag')
 line = line[0]
 #density map
 density = registry.mapLayersByName('GZM_density_BREC')
@@ -39,6 +42,10 @@ step = 100 #segments size in meters
 span = 1500 #max value on popugraf
 scale = 20000 #people per span m (needed for offset visualization)
 
+#reproject layer to XY
+processing.run("qgis:reprojectlayer", {'INPUT': line, 'TARGET_CRS': 'EPSG:2180', 'OUTPUT': 'C:/temp/reprojectlayer.shp'})
+line = iface.addVectorLayer('C:/temp/reprojectlayer.shp', "line", "ogr")
+
 #counting whole population in buffer
 processing.run("native:buffer", {'INPUT': line, 'DISTANCE': distance, 'SEGMENTS': 99, 'OUTPUT': 'C:/temp/buffer.shp'})
 processing.run("native:intersection", {'INPUT': 'C:/temp/buffer.shp', 'OVERLAY': density, 'OUTPUT': 'C:/temp/rbuffer.shp'})
@@ -47,16 +54,20 @@ bufor = iface.addVectorLayer('C:/temp/rbuffer.shp', "bufor", "ogr")
 totpop = 0
 for feature in bufor.getFeatures():
     totpop = feature["TOTAL_POP"] + totpop
-print(totpop)
+print("TOTAL POPULATION: " + str(totpop))
 QgsProject.instance().removeMapLayers([bufor.id()])
+
+#counting length of line
+totlen = totlength(line)
+print("TOTAL LENGTH: " + str(totlen/1000) + " km")
 
 #making popugraf
 pattern(totlen,step)
-processing.run("grass7:v.segment", {"input": line, "output": "C:/temp/rule.shp", "rules": "C:/temp/rule.txt",
-"GRASS_REGION_PARAMETER": extent, "GRASS_SNAP_TOLERANCE_PARAMETER": -1, "GRASS_MIN_AREA_PARAMETER": 0, "GRASS_OUTPUT_TYPE_PARAMETER": 1})
+processing.run("grass7:v.segment", {"input": line, "output": "C:/temp/rule.shp", "rules": "C:/temp/rule.txt", "GRASS_REGION_PARAMETER": density, "GRASS_SNAP_TOLERANCE_PARAMETER": -1, "GRASS_MIN_AREA_PARAMETER": 0, "GRASS_OUTPUT_TYPE_PARAMETER": 1})
 processing.run("native:buffer", {'INPUT': "C:/temp/rule.shp", 'DISTANCE': distance, 'SEGMENTS': 99, 'OUTPUT': 'C:/temp/buffer.shp'})
 processing.run("native:intersection", {'INPUT': 'C:/temp/buffer.shp', 'OVERLAY': density, 'OUTPUT': 'C:/temp/rbuffer.shp'})
 bufor = iface.addVectorLayer('C:/temp/rbuffer.shp', "bufor", "ogr")
+QgsProject.instance().removeMapLayers([line.id()])
 
 n = int(totlen/step)
 population = n*[0]
@@ -71,4 +82,4 @@ QgsProject.instance().removeMapLayers([bufor.id()])
 population = [span*item/scale for item in population]
 segments(population,step)
 processing.run("grass7:v.segment", {"input": line, "output": "C:/temp/segments.shp", "rules": "C:/temp/segments.txt",
-"GRASS_REGION_PARAMETER": extent, "GRASS_SNAP_TOLERANCE_PARAMETER": -1, "GRASS_MIN_AREA_PARAMETER": 0, "GRASS_OUTPUT_TYPE_PARAMETER": 1})
+"GRASS_REGION_PARAMETER": density, "GRASS_SNAP_TOLERANCE_PARAMETER": -1, "GRASS_MIN_AREA_PARAMETER": 0, "GRASS_OUTPUT_TYPE_PARAMETER": 1})
