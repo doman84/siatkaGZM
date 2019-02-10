@@ -39,8 +39,8 @@ density = density[0]
 #parameters
 distance = 1000 #buffer distance (in meters)
 step = 100 #segments size in meters
-span = 1500 #max value on popugraf
-scale = 20000 #people per span m (needed for offset visualization)
+span = 1000 #max value on popugraf
+scale = 30000 #people per span m (needed for offset visualization)
 
 #reproject layer to XY
 processing.run("qgis:reprojectlayer", {'INPUT': line, 'TARGET_CRS': 'EPSG:2180', 'OUTPUT': 'C:/temp/reprojectlayer.shp'})
@@ -79,7 +79,18 @@ for feature in bufor.getFeatures():
 
 QgsProject.instance().removeMapLayers([bufor.id()])
 
-population = [span*item/scale for item in population]
-segments(population,step)
-processing.run("grass7:v.segment", {"input": line, "output": "C:/temp/segments.shp", "rules": "C:/temp/segments.txt",
-"GRASS_REGION_PARAMETER": density, "GRASS_SNAP_TOLERANCE_PARAMETER": -1, "GRASS_MIN_AREA_PARAMETER": 0, "GRASS_OUTPUT_TYPE_PARAMETER": 1})
+#assigning values to segments
+segment = iface.addVectorLayer('C:/temp/rule.shp', "segment", "ogr")
+segment.startEditing()
+segment.dataProvider().addAttributes([QgsField("population", QVariant.Int)])
+segment.commitChanges()
+i=0
+segment.startEditing()
+for feature in segment.getFeatures():
+    feature["population"] = population[i]
+    i = i+1
+    segment.updateFeature(feature)
+segment.commitChanges()
+    
+#segments(population,step)
+#processing.runAndLoadResults("grass7:v.segment", {"input": line, "output": "C:/temp/segments.shp", "rules": "C:/temp/segments.txt", "GRASS_REGION_PARAMETER": density, "GRASS_SNAP_TOLERANCE_PARAMETER": -1, "GRASS_MIN_AREA_PARAMETER": 0, "GRASS_OUTPUT_TYPE_PARAMETER": 1})
