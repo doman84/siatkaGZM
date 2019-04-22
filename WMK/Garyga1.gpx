@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="50.2575956" lon="19.0175911">
+		<name>Katowice</name>
+	</wpt>
+	<wpt lat="50.281227" lon="18.9394637">
+		<name>Chorzów</name>
+	</wpt>
+	<wpt lat="50.2986893" lon="18.9501336">
+		<name>Chorzów Miasto</name>
+	</wpt>
+	<wpt lat="50.3464378" lon="18.997317">
+		<name>Dąbrówka</name>
+	</wpt>
+	<wpt lat="50.3565011" lon="18.9823396">
+		<name>Piekary - Brzeziny Śląskie</name>
+	</wpt>
+	<wpt lat="50.3719843" lon="18.9188209">
+		<name>Piekary - Szarlej</name>
+	</wpt>
+	<wpt lat="50.4081668" lon="18.9144408">
+		<name>Radzionków</name>
+	</wpt>
+	<wpt lat="50.4463418" lon="18.8644229">
+		<name>Tarnowskie Góry</name>
+	</wpt>
+	<trk>
+		<name></name>
+		<desc>Length: 30.98 km (19.25 mi)</desc>
+		<trkseg>
+			<trkpt lat="50.4463418" lon="18.8644229"></trkpt>
+			<trkpt lat="50.4297072" lon="18.9038548"></trkpt>
+			<trkpt lat="50.4081462" lon="18.9145622"></trkpt>
+			<trkpt lat="50.3719388" lon="18.919089"></trkpt>
+			<trkpt lat="50.3565399" lon="18.9820685"></trkpt>
+			<trkpt lat="50.3464607" lon="18.9971058"></trkpt>
+			<trkpt lat="50.3169018" lon="18.9565937"></trkpt>
+			<trkpt lat="50.2987301" lon="18.9504139"></trkpt>
+			<trkpt lat="50.281318" lon="18.9391701"></trkpt>
+			<trkpt lat="50.2636356" lon="18.9898918"></trkpt>
+			<trkpt lat="50.2574214" lon="19.0174864"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

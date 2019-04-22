@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name></name>
+		<desc>Length: 69.9 km (43.43 mi)</desc>
+		<trkseg>
+			<trkpt lat="50.2970236" lon="18.67733"></trkpt>
+			<trkpt lat="50.306234" lon="18.7834167"></trkpt>
+			<trkpt lat="50.3176349" lon="18.8421249"></trkpt>
+			<trkpt lat="50.3165388" lon="18.8558578"></trkpt>
+			<trkpt lat="50.3066726" lon="18.8709641"></trkpt>
+			<trkpt lat="50.295927" lon="18.9011765"></trkpt>
+			<trkpt lat="50.2840821" lon="18.9310455"></trkpt>
+			<trkpt lat="50.2671871" lon="18.9894104"></trkpt>
+			<trkpt lat="50.260164" lon="19.0165329"></trkpt>
+			<trkpt lat="50.2579691" lon="19.0529251"></trkpt>
+			<trkpt lat="50.2632367" lon="19.0742111"></trkpt>
+			<trkpt lat="50.2902243" lon="19.1068268"></trkpt>
+			<trkpt lat="50.3079882" lon="19.1439056"></trkpt>
+			<trkpt lat="50.3209232" lon="19.1301727"></trkpt>
+			<trkpt lat="50.3312248" lon="19.1789246"></trkpt>
+			<trkpt lat="50.3253071" lon="19.2026138"></trkpt>
+			<trkpt lat="50.3364843" lon="19.2273331"></trkpt>
+			<trkpt lat="50.3487543" lon="19.2386627"></trkpt>
+			<trkpt lat="50.3570786" lon="19.2558289"></trkpt>
+			<trkpt lat="50.3824804" lon="19.2767715"></trkpt>
+			<trkpt lat="50.3872965" lon="19.3028641"></trkpt>
+			<trkpt lat="50.4089627" lon="19.3402863"></trkpt>
+			<trkpt lat="50.4139949" lon="19.3543625"></trkpt>
+			<trkpt lat="50.4288694" lon="19.392128"></trkpt>
+			<trkpt lat="50.4889761" lon="19.4219971"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

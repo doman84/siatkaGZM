@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>linia kolejowa</name>
+		<desc>Length: 26.52 km (16.48 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>ff0000</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="50.0866553" lon="19.2020863"></trkpt>
+			<trkpt lat="50.1421351" lon="19.1959065"></trkpt>
+			<trkpt lat="50.2050224" lon="19.1650074"></trkpt>
+			<trkpt lat="50.2445594" lon="19.1299885"></trkpt>
+			<trkpt lat="50.2643156" lon="19.0228718"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

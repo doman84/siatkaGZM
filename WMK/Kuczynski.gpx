@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>Pyskowice- Dąbrowa Górnicza Ząbkowice</name>
+		<desc>Length: 62.74 km (38.99 mi)</desc>
+		<trkseg>
+			<trkpt lat="50.3845526" lon="18.6183071"></trkpt>
+			<trkpt lat="50.3727605" lon="18.629033"></trkpt>
+			<trkpt lat="50.3570229" lon="18.6215628"></trkpt>
+			<trkpt lat="50.3487227" lon="18.620922"></trkpt>
+			<trkpt lat="50.340421" lon="18.6223412"></trkpt>
+			<trkpt lat="50.3203127" lon="18.6474895"></trkpt>
+			<trkpt lat="50.3010732" lon="18.6767578"></trkpt>
+			<trkpt lat="50.2946857" lon="18.6987305"></trkpt>
+			<trkpt lat="50.2959742" lon="18.7279129"></trkpt>
+			<trkpt lat="50.3018681" lon="18.756237"></trkpt>
+			<trkpt lat="50.3053493" lon="18.7869644"></trkpt>
+			<trkpt lat="50.3078161" lon="18.8188934"></trkpt>
+			<trkpt lat="50.3157639" lon="18.8515091"></trkpt>
+			<trkpt lat="50.3103376" lon="18.8661003"></trkpt>
+			<trkpt lat="50.3038143" lon="18.8776016"></trkpt>
+			<trkpt lat="50.2969063" lon="18.8989735"></trkpt>
+			<trkpt lat="50.2891199" lon="18.917942"></trkpt>
+			<trkpt lat="50.2836357" lon="18.9309025"></trkpt>
+			<trkpt lat="50.2785898" lon="18.9448929"></trkpt>
+			<trkpt lat="50.2708003" lon="18.9666939"></trkpt>
+			<trkpt lat="50.2638875" lon="18.9895248"></trkpt>
+			<trkpt lat="50.2601015" lon="19.0023994"></trkpt>
+			<trkpt lat="50.2576322" lon="19.0169907"></trkpt>
+			<trkpt lat="50.2570286" lon="19.0365601"></trkpt>
+			<trkpt lat="50.2575225" lon="19.0564728"></trkpt>
+			<trkpt lat="50.2566445" lon="19.0740681"></trkpt>
+			<trkpt lat="50.259059" lon="19.09235"></trkpt>
+			<trkpt lat="50.2612264" lon="19.1027355"></trkpt>
+			<trkpt lat="50.2638464" lon="19.10707"></trkpt>
+			<trkpt lat="50.2680024" lon="19.1100311"></trkpt>
+			<trkpt lat="50.2786995" lon="19.126339"></trkpt>
+			<trkpt lat="50.284239" lon="19.137454"></trkpt>
+			<trkpt lat="50.2930681" lon="19.1430759"></trkpt>
+			<trkpt lat="50.301128" lon="19.1449213"></trkpt>
+			<trkpt lat="50.3089673" lon="19.1409302"></trkpt>
+			<trkpt lat="50.3139004" lon="19.1376686"></trkpt>
+			<trkpt lat="50.3192715" lon="19.1350937"></trkpt>
+			<trkpt lat="50.3269982" lon="19.1412735"></trkpt>
+			<trkpt lat="50.3305597" lon="19.157753"></trkpt>
+			<trkpt lat="50.3324225" lon="19.1727734"></trkpt>
+			<trkpt lat="50.3301214" lon="19.1864204"></trkpt>
+			<trkpt lat="50.3304501" lon="19.1958189"></trkpt>
+			<trkpt lat="50.3349427" lon="19.206934"></trkpt>
+			<trkpt lat="50.3437076" lon="19.2260742"></trkpt>
+			<trkpt lat="50.3536757" lon="19.2477036"></trkpt>
+			<trkpt lat="50.3595351" lon="19.2578316"></trkpt>
+			<trkpt lat="50.3669268" lon="19.2648697"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>Katowice- Tychy- Bieruń- Mysłowice- Katowice</name>
+		<desc>Length: 58.35 km (36.26 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>66cc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="50.2576048" lon="19.0170979"></trkpt>
+			<trkpt lat="50.2535302" lon="18.9963162"></trkpt>
+			<trkpt lat="50.2442958" lon="18.9832592"></trkpt>
+			<trkpt lat="50.2386316" lon="18.9777027"></trkpt>
+			<trkpt lat="50.232747" lon="18.9735196"></trkpt>
+			<trkpt lat="50.2262131" lon="18.9770386"></trkpt>
+			<trkpt lat="50.2196885" lon="18.9795052"></trkpt>
+			<trkpt lat="50.2132728" lon="18.9702988"></trkpt>
+			<trkpt lat="50.2083293" lon="18.9625311"></trkpt>
+			<trkpt lat="50.2003086" lon="18.9600849"></trkpt>
+			<trkpt lat="50.1829442" lon="18.9603424"></trkpt>
+			<trkpt lat="50.1765958" lon="18.961544"></trkpt>
+			<trkpt lat="50.1722256" lon="18.9668655"></trkpt>
+			<trkpt lat="50.1671404" lon="18.9723587"></trkpt>
+			<trkpt lat="50.1615047" lon="18.9713287"></trkpt>
+			<trkpt lat="50.1364248" lon="18.9648056"></trkpt>
+			<trkpt lat="50.1278693" lon="18.9651489"></trkpt>
+			<trkpt lat="50.1211835" lon="18.9788818"></trkpt>
+			<trkpt lat="50.1173861" lon="18.9821434"></trkpt>
+			<trkpt lat="50.1139738" lon="18.9866066"></trkpt>
+			<trkpt lat="50.1078639" lon="19.0005112"></trkpt>
+			<trkpt lat="50.1073508" lon="19.024695"></trkpt>
+			<trkpt lat="50.0980623" lon="19.0574091"></trkpt>
+			<trkpt lat="50.0874503" lon="19.0885782"></trkpt>
+			<trkpt lat="50.0835486" lon="19.1159905"></trkpt>
+			<trkpt lat="50.0876949" lon="19.1282509"></trkpt>
+			<trkpt lat="50.0947042" lon="19.1319283"></trkpt>
+			<trkpt lat="50.1084995" lon="19.1258934"></trkpt>
+			<trkpt lat="50.1185486" lon="19.1209743"></trkpt>
+			<trkpt lat="50.1263946" lon="19.1232649"></trkpt>
+			<trkpt lat="50.1355598" lon="19.1284738"></trkpt>
+			<trkpt lat="50.143623" lon="19.1261297"></trkpt>
+			<trkpt lat="50.1495579" lon="19.1288206"></trkpt>
+			<trkpt lat="50.1546121" lon="19.1328848"></trkpt>
+			<trkpt lat="50.1575266" lon="19.1392363"></trkpt>
+			<trkpt lat="50.1595612" lon="19.1462744"></trkpt>
+			<trkpt lat="50.1724682" lon="19.1608656"></trkpt>
+			<trkpt lat="50.1976714" lon="19.1541481"></trkpt>
+			<trkpt lat="50.2130531" lon="19.14711"></trkpt>
+			<trkpt lat="50.2255197" lon="19.1467667"></trkpt>
+			<trkpt lat="50.237983" lon="19.1416168"></trkpt>
+			<trkpt lat="50.2547787" lon="19.1195583"></trkpt>
+			<trkpt lat="50.2599918" lon="19.1069841"></trkpt>
+			<trkpt lat="50.259059" lon="19.09235"></trkpt>
+			<trkpt lat="50.2547787" lon="19.0748405"></trkpt>
+			<trkpt lat="50.2575225" lon="19.0564728"></trkpt>
+			<trkpt lat="50.2556018" lon="19.0368605"></trkpt>
+			<trkpt lat="50.2576322" lon="19.0170765"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>Gliwice- Ruda Sl.- Katowice Płd.- Katowice Płn.- Siemianowice Śl.- Bytom- Tarnowskie Góry</name>
+		<desc>Length: 70.47 km (43.79 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>8c008c</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="50.3010732" lon="18.6767578"></trkpt>
+			<trkpt lat="50.2955755" lon="18.7041776"></trkpt>
+			<trkpt lat="50.2958895" lon="18.7340007"></trkpt>
+			<trkpt lat="50.295224" lon="18.7476248"></trkpt>
+			<trkpt lat="50.2889654" lon="18.7585023"></trkpt>
+			<trkpt lat="50.2795247" lon="18.7645733"></trkpt>
+			<trkpt lat="50.2740357" lon="18.7682954"></trkpt>
+			<trkpt lat="50.2699725" lon="18.7754507"></trkpt>
+			<trkpt lat="50.2633386" lon="18.7925567"></trkpt>
+			<trkpt lat="50.2606547" lon="18.8130958"></trkpt>
+			<trkpt lat="50.259375" lon="18.8342609"></trkpt>
+			<trkpt lat="50.2589732" lon="18.8552543"></trkpt>
+			<trkpt lat="50.2613875" lon="18.8780814"></trkpt>
+			<trkpt lat="50.2580952" lon="18.8908273"></trkpt>
+			<trkpt lat="50.2564489" lon="18.9047748"></trkpt>
+			<trkpt lat="50.2565587" lon="18.9196235"></trkpt>
+			<trkpt lat="50.2541996" lon="18.9313623"></trkpt>
+			<trkpt lat="50.2462964" lon="18.9383146"></trkpt>
+			<trkpt lat="50.2418503" lon="18.9451811"></trkpt>
+			<trkpt lat="50.2393801" lon="18.9537641"></trkpt>
+			<trkpt lat="50.2387944" lon="18.9630626"></trkpt>
+			<trkpt lat="50.2388676" lon="18.9721895"></trkpt>
+			<trkpt lat="50.2389225" lon="18.9763952"></trkpt>
+			<trkpt lat="50.2352443" lon="18.9883257"></trkpt>
+			<trkpt lat="50.229095" lon="18.9931322"></trkpt>
+			<trkpt lat="50.2255808" lon="19.0027452"></trkpt>
+			<trkpt lat="50.2316756" lon="19.0387397"></trkpt>
+			<trkpt lat="50.2309069" lon="19.0546184"></trkpt>
+			<trkpt lat="50.2340809" lon="19.072939"></trkpt>
+			<trkpt lat="50.252195" lon="19.1056405"></trkpt>
+			<trkpt lat="50.2557347" lon="19.1088162"></trkpt>
+			<trkpt lat="50.2593839" lon="19.1068421"></trkpt>
+			<trkpt lat="50.2613318" lon="19.1004906"></trkpt>
+			<trkpt lat="50.2615239" lon="19.0931092"></trkpt>
+			<trkpt lat="50.2644319" lon="19.0800158"></trkpt>
+			<trkpt lat="50.2665168" lon="19.073364"></trkpt>
+			<trkpt lat="50.2698085" lon="19.0711753"></trkpt>
+			<trkpt lat="50.2795727" lon="19.0636222"></trkpt>
+			<trkpt lat="50.2845638" lon="19.0590731"></trkpt>
+			<trkpt lat="50.2887866" lon="19.0534941"></trkpt>
+			<trkpt lat="50.2965195" lon="19.03933"></trkpt>
+			<trkpt lat="50.3037031" lon="19.0244792"></trkpt>
+			<trkpt lat="50.3077049" lon="19.0180419"></trkpt>
+			<trkpt lat="50.3108293" lon="19.0100596"></trkpt>
+			<trkpt lat="50.3097879" lon="18.9792464"></trkpt>
+			<trkpt lat="50.3117612" lon="18.9675734"></trkpt>
+			<trkpt lat="50.3153786" lon="18.9589903"></trkpt>
+			<trkpt lat="50.3218818" lon="18.9505941"></trkpt>
+			<trkpt lat="50.3291511" lon="18.9492359"></trkpt>
+			<trkpt lat="50.3339966" lon="18.9497938"></trkpt>
+			<trkpt lat="50.3385128" lon="18.9464035"></trkpt>
+			<trkpt lat="50.3434657" lon="18.9326019"></trkpt>
+			<trkpt lat="50.3425459" lon="18.9230404"></trkpt>
+			<trkpt lat="50.343379" lon="18.9155388"></trkpt>
+			<trkpt lat="50.3445869" lon="18.8964254"></trkpt>
+			<trkpt lat="50.3510527" lon="18.8831484"></trkpt>
+			<trkpt lat="50.3644659" lon="18.878358"></trkpt>
+			<trkpt lat="50.3718279" lon="18.8772502"></trkpt>
+			<trkpt lat="50.3780942" lon="18.8806057"></trkpt>
+			<trkpt lat="50.3857641" lon="18.8850023"></trkpt>
+			<trkpt lat="50.3931046" lon="18.8911156"></trkpt>
+			<trkpt lat="50.394677" lon="18.8974893"></trkpt>
+			<trkpt lat="50.3973437" lon="18.902833"></trkpt>
+			<trkpt lat="50.4095055" lon="18.9156748"></trkpt>
+			<trkpt lat="50.4207159" lon="18.9146627"></trkpt>
+			<trkpt lat="50.4299554" lon="18.9035225"></trkpt>
+			<trkpt lat="50.432952" lon="18.8800002"></trkpt>
+			<trkpt lat="50.4425082" lon="18.8640311"></trkpt>
+			<trkpt lat="50.4469903" lon="18.8643744"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>Gliwice- Knurów- Orzesze- Tychy- Katowice</name>
+		<desc>Length: 65.74 km (40.85 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>00ffff</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="50.3010732" lon="18.6767578"></trkpt>
+			<trkpt lat="50.2941754" lon="18.7467125"></trkpt>
+			<trkpt lat="50.285182" lon="18.757613"></trkpt>
+			<trkpt lat="50.2744316" lon="18.7657669"></trkpt>
+			<trkpt lat="50.2600359" lon="18.7408779"></trkpt>
+			<trkpt lat="50.2403663" lon="18.7341849"></trkpt>
+			<trkpt lat="50.2249866" lon="18.7471611"></trkpt>
+			<trkpt lat="50.2198892" lon="18.7391304"></trkpt>
+			<trkpt lat="50.2176472" lon="18.7201134"></trkpt>
+			<trkpt lat="50.2173372" lon="18.6882591"></trkpt>
+			<trkpt lat="50.2146755" lon="18.6688097"></trkpt>
+			<trkpt lat="50.2073151" lon="18.6804827"></trkpt>
+			<trkpt lat="50.200393" lon="18.6873492"></trkpt>
+			<trkpt lat="50.1836882" lon="18.7024554"></trkpt>
+			<trkpt lat="50.1799508" lon="18.735071"></trkpt>
+			<trkpt lat="50.1737944" lon="18.7443407"></trkpt>
+			<trkpt lat="50.182589" lon="18.7711199"></trkpt>
+			<trkpt lat="50.1713333" lon="18.7849645"></trkpt>
+			<trkpt lat="50.1543561" lon="18.777523"></trkpt>
+			<trkpt lat="50.1456113" lon="18.7681675"></trkpt>
+			<trkpt lat="50.1421459" lon="18.7739182"></trkpt>
+			<trkpt lat="50.1366174" lon="18.7940025"></trkpt>
+			<trkpt lat="50.133729" lon="18.8185501"></trkpt>
+			<trkpt lat="50.1301528" lon="18.8676453"></trkpt>
+			<trkpt lat="50.1232366" lon="18.9102072"></trkpt>
+			<trkpt lat="50.1284262" lon="18.9544858"></trkpt>
+			<trkpt lat="50.1302249" lon="18.961534"></trkpt>
+			<trkpt lat="50.1364248" lon="18.9648056"></trkpt>
+			<trkpt lat="50.1600201" lon="18.9697838"></trkpt>
+			<trkpt lat="50.1722531" lon="18.9604282"></trkpt>
+			<trkpt lat="50.1829442" lon="18.9603424"></trkpt>
+			<trkpt lat="50.2033852" lon="18.9567375"></trkpt>
+			<trkpt lat="50.2105265" lon="18.9612865"></trkpt>
+			<trkpt lat="50.2132728" lon="18.9702988"></trkpt>
+			<trkpt lat="50.2199733" lon="18.9754486"></trkpt>
+			<trkpt lat="50.2262336" lon="18.9771652"></trkpt>
+			<trkpt lat="50.2370498" lon="18.9719296"></trkpt>
+			<trkpt lat="50.2443507" lon="18.9831734"></trkpt>
+			<trkpt lat="50.2548335" lon="18.9949322"></trkpt>
+			<trkpt lat="50.2576322" lon="19.0169907"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>Orzesze- Mikołów- Katowice- Sosnowiec Płd.- Sławków</name>
+		<desc>Length: 56.05 km (34.83 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>0000cc</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="50.1446762" lon="18.7409592"></trkpt>
+			<trkpt lat="50.1455563" lon="18.7599277"></trkpt>
+			<trkpt lat="50.1543561" lon="18.777523"></trkpt>
+			<trkpt lat="50.1605425" lon="18.7852478"></trkpt>
+			<trkpt lat="50.1640889" lon="18.7964058"></trkpt>
+			<trkpt lat="50.1633467" lon="18.8101387"></trkpt>
+			<trkpt lat="50.1577656" lon="18.8214684"></trkpt>
+			<trkpt lat="50.1578205" lon="18.8312531"></trkpt>
+			<trkpt lat="50.1594152" lon="18.8455009"></trkpt>
+			<trkpt lat="50.1674977" lon="18.871336"></trkpt>
+			<trkpt lat="50.1731602" lon="18.8995743"></trkpt>
+			<trkpt lat="50.1844831" lon="18.9069557"></trkpt>
+			<trkpt lat="50.1936054" lon="18.9215469"></trkpt>
+			<trkpt lat="50.2132728" lon="18.9702988"></trkpt>
+			<trkpt lat="50.2205225" lon="18.9811134"></trkpt>
+			<trkpt lat="50.2262336" lon="18.9771652"></trkpt>
+			<trkpt lat="50.2356224" lon="18.9772511"></trkpt>
+			<trkpt lat="50.2443507" lon="18.9831734"></trkpt>
+			<trkpt lat="50.2524189" lon="18.999052"></trkpt>
+			<trkpt lat="50.2576322" lon="19.0169907"></trkpt>
+			<trkpt lat="50.2543945" lon="19.0374184"></trkpt>
+			<trkpt lat="50.2575225" lon="19.0564728"></trkpt>
+			<trkpt lat="50.2535713" lon="19.0754414"></trkpt>
+			<trkpt lat="50.259059" lon="19.09235"></trkpt>
+			<trkpt lat="50.2663016" lon="19.1071129"></trkpt>
+			<trkpt lat="50.2712392" lon="19.1127777"></trkpt>
+			<trkpt lat="50.2727752" lon="19.1213608"></trkpt>
+			<trkpt lat="50.2695934" lon="19.1259956"></trkpt>
+			<trkpt lat="50.264572" lon="19.1361926"></trkpt>
+			<trkpt lat="50.2659149" lon="19.1501662"></trkpt>
+			<trkpt lat="50.2648697" lon="19.1733067"></trkpt>
+			<trkpt lat="50.2654211" lon="19.1962572"></trkpt>
+			<trkpt lat="50.2727752" lon="19.2168045"></trkpt>
+			<trkpt lat="50.2882425" lon="19.2313957"></trkpt>
+			<trkpt lat="50.3020052" lon="19.2456436"></trkpt>
+			<trkpt lat="50.312722" lon="19.2531109"></trkpt>
+			<trkpt lat="50.3113791" lon="19.2677879"></trkpt>
+			<trkpt lat="50.3055138" lon="19.288559"></trkpt>
+			<trkpt lat="50.3033758" lon="19.3113899"></trkpt>
+			<trkpt lat="50.3008539" lon="19.3457222"></trkpt>
+			<trkpt lat="50.3002508" lon="19.363575"></trkpt>
+			<trkpt lat="50.2957001" lon="19.3738747"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>Pyskowice- Gliwice- Bytom- Katowice</name>
+		<desc>Length: 46.51 km (28.9 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>ffff00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="50.3845252" lon="18.617835"></trkpt>
+			<trkpt lat="50.371811" lon="18.6274764"></trkpt>
+			<trkpt lat="50.3564728" lon="18.6213108"></trkpt>
+			<trkpt lat="50.3402531" lon="18.6220116"></trkpt>
+			<trkpt lat="50.3225798" lon="18.6428392"></trkpt>
+			<trkpt lat="50.3050883" lon="18.6668135"></trkpt>
+			<trkpt lat="50.3010243" lon="18.6768831"></trkpt>
+			<trkpt lat="50.2952054" lon="18.6927893"></trkpt>
+			<trkpt lat="50.293998" lon="18.707886"></trkpt>
+			<trkpt lat="50.2948742" lon="18.7243561"></trkpt>
+			<trkpt lat="50.2994787" lon="18.7397962"></trkpt>
+			<trkpt lat="50.3062756" lon="18.7476831"></trkpt>
+			<trkpt lat="50.3115691" lon="18.7515085"></trkpt>
+			<trkpt lat="50.3164235" lon="18.759282"></trkpt>
+			<trkpt lat="50.3262166" lon="18.795617"></trkpt>
+			<trkpt lat="50.3303917" lon="18.8166455"></trkpt>
+			<trkpt lat="50.3362099" lon="18.8368157"></trkpt>
+			<trkpt lat="50.3412945" lon="18.8518772"></trkpt>
+			<trkpt lat="50.344078" lon="18.8693419"></trkpt>
+			<trkpt lat="50.3441119" lon="18.8925262"></trkpt>
+			<trkpt lat="50.343379" lon="18.9155388"></trkpt>
+			<trkpt lat="50.3428983" lon="18.9318434"></trkpt>
+			<trkpt lat="50.3411029" lon="18.9424831"></trkpt>
+			<trkpt lat="50.3344955" lon="18.9481066"></trkpt>
+			<trkpt lat="50.3275584" lon="18.949782"></trkpt>
+			<trkpt lat="50.3215519" lon="18.9523156"></trkpt>
+			<trkpt lat="50.3167504" lon="18.9570808"></trkpt>
+			<trkpt lat="50.3120094" lon="18.9648271"></trkpt>
+			<trkpt lat="50.3065005" lon="18.9660501"></trkpt>
+			<trkpt lat="50.2998944" lon="18.9613509"></trkpt>
+			<trkpt lat="50.2986608" lon="18.9497852"></trkpt>
+			<trkpt lat="50.2922025" lon="18.9412313"></trkpt>
+			<trkpt lat="50.2857433" lon="18.9330207"></trkpt>
+			<trkpt lat="50.281673" lon="18.9371114"></trkpt>
+			<trkpt lat="50.2785898" lon="18.9449787"></trkpt>
+			<trkpt lat="50.2638875" lon="18.9895248"></trkpt>
+			<trkpt lat="50.2576322" lon="19.0170765"></trkpt>
+			<trkpt lat="50.2576801" lon="19.0171137"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

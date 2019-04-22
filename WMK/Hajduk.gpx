@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>Damian</name>
+		<desc>Length: 59.26 km (36.82 mi)</desc>
+		<trkseg>
+			<trkpt lat="50.3351201" lon="19.2649408"></trkpt>
+			<trkpt lat="50.3276687" lon="19.2175622"></trkpt>
+			<trkpt lat="50.3132009" lon="19.1921563"></trkpt>
+			<trkpt lat="50.2943423" lon="19.1825433"></trkpt>
+			<trkpt lat="50.286007" lon="19.1468377"></trkpt>
+			<trkpt lat="50.2561636" lon="19.1303582"></trkpt>
+			<trkpt lat="50.2429915" lon="19.1111322"></trkpt>
+			<trkpt lat="50.2566026" lon="19.0816064"></trkpt>
+			<trkpt lat="50.2535295" lon="19.0280481"></trkpt>
+			<trkpt lat="50.2666987" lon="19.0033288"></trkpt>
+			<trkpt lat="50.2680155" lon="18.9683099"></trkpt>
+			<trkpt lat="50.2908329" lon="18.9490838"></trkpt>
+			<trkpt lat="50.2925876" lon="18.921618"></trkpt>
+			<trkpt lat="50.294781" lon="18.8666864"></trkpt>
+			<trkpt lat="50.2939036" lon="18.8330407"></trkpt>
+			<trkpt lat="50.3013603" lon="18.7980218"></trkpt>
+			<trkpt lat="50.3189009" lon="18.7808557"></trkpt>
+			<trkpt lat="50.3057461" lon="18.7664361"></trkpt>
+			<trkpt lat="50.3004831" lon="18.7314172"></trkpt>
+			<trkpt lat="50.2939036" lon="18.7005182"></trkpt>
+			<trkpt lat="50.304869" lon="18.6785455"></trkpt>
+			<trkpt lat="50.3022375" lon="18.6497064"></trkpt>
+			<trkpt lat="50.2930263" lon="18.6531396"></trkpt>
+			<trkpt lat="50.282497" lon="18.6668725"></trkpt>
+			<trkpt lat="50.2715265" lon="18.695025"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
