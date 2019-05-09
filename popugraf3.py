@@ -32,7 +32,7 @@ def segments(distance,step):
 
 #input line
 registry = QgsProject.instance()
-line = registry.mapLayersByName('Czajkowski tracks')
+line = registry.mapLayersByName('pol1')
 line = line[0]
 #density map
 density = registry.mapLayersByName('GZM_density_BREC')
